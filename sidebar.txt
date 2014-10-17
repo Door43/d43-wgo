@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wgo:home|Door43 (wgo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wgo|d43-wgo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wgo/archive/master.zip|d43-wgo.zip]]
+
+**Recent Changes**
+{{changes>ns = wgo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wgo|Ethnologue data]]
+
